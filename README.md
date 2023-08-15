@@ -23,5 +23,5 @@ python3 manage.py createsuperuser --settings=core.settings.local
 ```
 Last one, to run telegram bot:
 ```bash
-python3 manage.py start_bot --settings=core.settings.base
+python3 manage.py start_bot --settings=core.settings.local
 ```
